@@ -1,20 +1,25 @@
-import math
-# cook your dish here
-def find(x):
-   # if x is 0 or not
-   return (x and (not(x & (x - 1))) )
+tcases=int(input())
+while tcases:  
+  n,k = map(int, input().split(' '))
+  n=n-1
+  for i in range(n+1):
+      if(2<<i)%n==1:
+          ct=i+1
+          break
 
-for _ in range(int(input())):
-    (n,k) = map(int,input().split(' '))
-    
-    if not find(n):
-        k = k % (n-2)
-    else:
-        k = k % int(math.log(n,2))
-    
-    lst = list(range(1,n+1))
-    
-    for x in range(0,k):
-        lst = lst[0::2] + lst[1::2]
-    
-    print(*lst,sep=" ",end="\n")
+  if ct==k :
+      itr=n+1
+  elif ct>k:
+      itr=(1<<k)%n
+  elif ct<k:
+      itr=1<<(k%ct)%n
+
+  z=0
+  for i in range(n+1):
+      print(z+1,end=' ')
+      z=(z+itr)%n
+      if z==0:
+          z=n
+
+  print()
+  tcases-=1
