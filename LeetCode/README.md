@@ -14,5 +14,6 @@
 | 55 | Jump Game | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/55-LeetCode.java">Click here for Solution</a> | Java | Medium |
 | 58 | Length of Last Word | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/58-LeetCode.py">Click here for Solution</a> | Python | Easy |
 | 61 | Rotate List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/61-LeetCode.cpp">Click here for Solution</a> | C++ | Medium |
+| 69 | Sqrt(x) | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/69-LeetCode.java">Click here for Solution</a> | Java | Easy |
 | 141 | Linked List Cycle | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/141-LeetCode.cpp">Click here for Solution</a> | C++ | Easy |
 | 234 | Palindrome Linked List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/234-LeetCode.cpp">Click here for Solution</a> | C++ | Easy |
