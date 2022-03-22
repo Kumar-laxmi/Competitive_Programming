@@ -12,6 +12,7 @@
 | 23 | Merge k Sorted Lists | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/23-LeetCode.cpp">Click here for Solution</a> | C++ | Hard |
 | 50 | Pow(x,n) | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/50-LeetCode.java">Click here for Solution</a> | Java | Medium |
 | 55 | Jump Game | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/55-LeetCode.java">Click here for Solution</a> | Java | Medium |
+| 58 | Length of Last Word | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/58-LeetCode.py">Click here for Solution</a> | Python | Easy |
 | 61 | Rotate List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/61-LeetCode.cpp">Click here for Solution</a> | C++ | Medium |
 | 141 | Linked List Cycle | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/141-LeetCode.cpp">Click here for Solution</a> | C++ | Easy |
 | 234 | Palindrome Linked List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/234-LeetCode.cpp">Click here for Solution</a> | C++ | Easy |
