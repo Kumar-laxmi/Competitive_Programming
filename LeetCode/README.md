@@ -1,4 +1,4 @@
-## LeetCode Problems Solved:
+## LeetCode Problems Solved: ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 |  Problem Number  |  Problem Title  |  Solution Code  |  Language  |  Difficulty  |
 |------------------|-----------------|----------------|------------|--------------|
