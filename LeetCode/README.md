@@ -21,5 +21,5 @@
 | 234 | Palindrome Linked List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/234-LeetCode.cpp">Click here for Solution</a> | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Easy |
 | 237 | Delete a node in Linked List | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/237-LeetCode.py">Click here for Solution</a> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Easy |
 | 509 | Fibonacci Number | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/509-LeetCode.py">Click here for Solution</a> | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Easy |
-| 1137 | N-th Tribonacci Number | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/1137-LeetCode.c">Click here for Solution</a> | !![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Easy |
+| 1137 | N-th Tribonacci Number | <a href="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/LeetCode/1137-LeetCode.c">Click here for Solution</a> | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Easy |
 
