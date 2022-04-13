@@ -1,5 +1,5 @@
-// 26. Remove Duplicates from Sorted Array
-// Difficulty: Easy
+# 26. Remove Duplicates from Sorted Array
+# Difficulty: Easy
 
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
