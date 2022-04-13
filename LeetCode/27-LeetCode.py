@@ -1,5 +1,5 @@
-// 27. Remove Element
-// Difficulty: Easy
+# 27. Remove Element
+# Difficulty: Easy
 
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
