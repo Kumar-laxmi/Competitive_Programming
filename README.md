@@ -11,4 +11,4 @@ Google’s team-based programming competition, Hash Code, allows you to share yo
 <img src="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/Images/LeetCode.png" />
 LeetCode is a website where people can practice solving coding problems and prepare for technical interviews. Their main users are software engineers. LeetCode has over 1,900 questions for you to practice, covering many different programming concepts.
 
-## 4) Hackerrank
+## 4) Geeksforgeeks
