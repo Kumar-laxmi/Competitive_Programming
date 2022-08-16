@@ -14,3 +14,8 @@ LeetCode is a website where people can practice solving coding problems and prep
 ## 4) Geeksforgeeks
 <img src="https://github.com/Kumar-laxmi/Competitive_Programming/blob/main/Images/geeks.jpg" height="200" width="200" />
 A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles
+
+## 5) Coding Ninjas
+![image](https://user-images.githubusercontent.com/76027425/184881183-66bdb6ab-a7a8-4026-871c-1dbc80a1f9dd.png)
+
+
