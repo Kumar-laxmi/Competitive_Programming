@@ -1,5 +1,5 @@
 // 1544. Make The String Great
-// Difficulty: 
+// Difficulty: Easy
 
 class Solution {
 public:
